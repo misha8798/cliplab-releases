@@ -4,7 +4,7 @@
 
 ## Скачать
 
-[Скачать установщик ClipLab 0.7.0](https://github.com/misha8798/cliplab-releases/releases/download/v0.7.0/ClipLab-Setup-0.7.0.exe)
+[Скачать установщик ClipLab 0.7.1](https://github.com/misha8798/cliplab-releases/releases/download/v0.7.1/ClipLab-Setup-0.7.1.exe)
 
 ## Уже установлен ClipLab 0.6.0 или 0.6.1?
 
@@ -23,3 +23,4 @@ FFmpeg, Python и движок WhisperX входят в установщик. Р
 Установщик пока не подписан сертификатом издателя Windows. Приложение проверяет отдельную криптографическую подпись сведений об обновлении и целостность загруженного файла.
 
 [Все версии и изменения](https://github.com/misha8798/cliplab-releases/releases)
+
