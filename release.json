@@ -1,4 +1,4 @@
 {
-  "payload": "{\"version\":\"0.6.2\",\"minimumVersion\":\"0.6.2\",\"url\":\"https://github.com/misha8798/cliplab-releases/releases/download/v0.6.2/ClipLab-Setup-0.6.2.exe\",\"size\":762508076,\"sha256\":\"5fa09ba9074f5cdbc5e9e5a10928435bd2880ab6f4b87bae2c84ddfb6c5e4ebb\",\"notes\":\"Обновление ClipLab\"}",
-  "signature": "pcGZxwaXTlgrX5bU7EehOqD2DRsh+YelxdEjzUfPNooQ7P4bDZJAcIrwlRr8A4J+L8wO3XrySeS7SCXPw/RkAg=="
+  "payload": "{\"version\":\"0.7.0\",\"minimumVersion\":\"0.7.0\",\"url\":\"https://github.com/misha8798/cliplab-releases/releases/download/v0.7.0/ClipLab-Setup-0.7.0.exe\",\"size\":762513554,\"sha256\":\"ac9bea05b0e8a21e29997446046720566bbc92422dd08d8d9dffd45b459e5adb\",\"notes\":\"Звук, разрез на C, привязка к курсору и ключевые кадры.\"}",
+  "signature": "ZpZVlXh/7CJU17uJfoETTNsOQA5lu6C0wLb4neVvRpcvq4GtB9yuIuUzjzS9KzQsvtf/C+b0YmnutON7/fkoCg=="
 }
