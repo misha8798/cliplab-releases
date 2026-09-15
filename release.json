@@ -1,4 +1,4 @@
 {
-  "payload": "{\"version\":\"0.7.1\",\"minimumVersion\":\"0.7.1\",\"url\":\"https://github.com/misha8798/cliplab-releases/releases/download/v0.7.1/ClipLab-Setup-0.7.1.exe\",\"size\":855558265,\"sha256\":\"db95aca1141859ae236b811b143d27afda6e06eae5b94d291c16d76e3106f11d\",\"notes\":\"Исправлены зависимости субтитров и установка обновлений.\"}",
-  "signature": "OA2FHVOXRTscyECf17CP6zUeDKonasfEaVWcKDyinwk5K8H2dJHBvfPenJY1wlyoxmcnmKJELlsEiFl9hJEJAg=="
+  "payload": "{\"version\":\"0.7.3\",\"minimumVersion\":\"0.7.1\",\"url\":\"https://github.com/misha8798/cliplab-releases/releases/download/v0.7.3/ClipLab-Setup-0.7.3.exe\",\"size\":888023909,\"sha256\":\"8aa39c9c9d6b321b0774e5accac983694cdd1acbc610565b57e9375ac9d6f531\",\"notes\":\"Удаление старых проектов и кэша, автоматическая очистка экспорта и ускоренный предпросмотр.\"}",
+  "signature": "rbX9s4ijXuvPX8Nw5IZmhoFSraFRgs/w0c5bmKASyKT4Bi11+3Ej1y1niQ9pRc7uRSe1EvcjAkNHz+EzLPRMCQ=="
 }
